@@ -1,4 +1,4 @@
-package Praks1;
+package AjalineKeerukus.Praks1;
 
 public class Ternary {
 

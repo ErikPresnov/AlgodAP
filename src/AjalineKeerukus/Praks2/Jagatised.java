@@ -1,4 +1,4 @@
-package Praks2;
+package AjalineKeerukus.Praks2;
 
 public class Jagatised {
 

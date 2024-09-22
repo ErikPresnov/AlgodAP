@@ -1,4 +1,4 @@
-package Praks1;
+package AjalineKeerukus.Praks1;
 
 class AjaMootmine {
     public static void main(String[] args) {
